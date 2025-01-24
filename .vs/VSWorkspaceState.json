@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\Microservices",
+    "\\src\\Microservices\\BaseInfo",
+    "\\src\\Microservices\\Comment"
   ],
-  "SelectedNode": "\\Gasht.sln",
+  "SelectedNode": "\\src\\Microservices\\BaseInfo\\Test",
   "PreviewInSolutionExplorer": false
 }
